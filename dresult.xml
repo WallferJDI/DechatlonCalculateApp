@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Decathlon>
+    <athletic>
+        <name>John Smith</name>
+        <rank>1</rank>
+        <score>3258</score>
+    </athletic>
+    <athletic>
+        <name>Jane Doe</name>
+        <rank>2</rank>
+        <score>2409</score>
+    </athletic>
+    <athletic>
+        <name>Jaan Lepp</name>
+        <rank>3</rank>
+        <score>2385</score>
+    </athletic>
+    <athletic>
+        <name>Foo Bar</name>
+        <rank>4</rank>
+        <score>2333</score>
+    </athletic>
+</Decathlon>

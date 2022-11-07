@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Decathlon>
+    <athletic>
+        <name>Foo Sanjo</name>
+        <rank>1</rank>
+        <score>4138</score>
+        <race100m>13.21</race100m>
+        <longJump>4.12</longJump>
+        <shotPut>8.1</shotPut>
+        <highJump>1.5</highJump>
+        <race400>32.06</race400>
+        <race110>19.05</race110>
+        <discusThrow>22.89</discusThrow>
+        <poleVault>2.2</poleVault>
+        <javelinThrow>33.48</javelinThrow>
+        <race1500m>351.01</race1500m>
+    </athletic>
+    <athletic>
+        <name>Tibaso Kanajo</name>
+        <rank>2</rank>
+        <score>4073</score>
+        <race100m>12.21</race100m>
+        <longJump>4.12</longJump>
+        <shotPut>9.1</shotPut>
+        <highJump>1.5</highJump>
+        <race400>32.06</race400>
+        <race110>19.05</race110>
+        <discusThrow>18.89</discusThrow>
+        <poleVault>2.2</poleVault>
+        <javelinThrow>33.48</javelinThrow>
+        <race1500m>531.01</race1500m>
+    </athletic>
+    <athletic>
+        <name>John Smith</name>
+        <rank>3</rank>
+        <score>3258</score>
+        <race100m>12.61</race100m>
+        <longJump>5.0</longJump>
+        <shotPut>9.22</shotPut>
+        <highJump>1.5</highJump>
+        <race400>60.39</race400>
+        <race110>16.43</race110>
+        <discusThrow>21.6</discusThrow>
+        <poleVault>2.6</poleVault>
+        <javelinThrow>35.81</javelinThrow>
+        <race1500m>325.72</race1500m>
+    </athletic>
+    <athletic>
+        <name>Jane Doe</name>
+        <rank>4</rank>
+        <score>2409</score>
+        <race100m>13.04</race100m>
+        <longJump>4.53</longJump>
+        <shotPut>7.79</shotPut>
+        <highJump>1.55</highJump>
+        <race400>64.72</race400>
+        <race110>18.74</race110>
+        <discusThrow>24.2</discusThrow>
+        <poleVault>2.4</poleVault>
+        <javelinThrow>28.2</javelinThrow>
+        <race1500m>410.76</race1500m>
+    </athletic>
+    <athletic>
+        <name>Jaan Lepp</name>
+        <rank>5</rank>
+        <score>2385</score>
+        <race100m>13.75</race100m>
+        <longJump>4.84</longJump>
+        <shotPut>10.12</shotPut>
+        <highJump>1.5</highJump>
+        <race400>68.44</race400>
+        <race110>19.18</race110>
+        <discusThrow>30.85</discusThrow>
+        <poleVault>2.8</poleVault>
+        <javelinThrow>33.88</javelinThrow>
+        <race1500m>382.75</race1500m>
+    </athletic>
+    <athletic>
+        <name>Foo Bar</name>
+        <rank>6</rank>
+        <score>2333</score>
+        <race100m>13.43</race100m>
+        <longJump>4.35</longJump>
+        <shotPut>8.64</shotPut>
+        <highJump>1.5</highJump>
+        <race400>66.06</race400>
+        <race110>19.05</race110>
+        <discusThrow>24.89</discusThrow>
+        <poleVault>2.2</poleVault>
+        <javelinThrow>33.48</javelinThrow>
+        <race1500m>411.01</race1500m>
+    </athletic>
+</Decathlon>
