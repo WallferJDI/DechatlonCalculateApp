@@ -1,4 +1,4 @@
-package service.caclulator;
+package service.calculator;
 
 import utils.DecathlonEvents;
 

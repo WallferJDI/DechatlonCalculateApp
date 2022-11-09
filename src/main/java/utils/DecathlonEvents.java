@@ -1,8 +1,8 @@
 package utils;
 
-import service.caclulator.CalculatorPointsFieldEventsImpl;
-import service.caclulator.CalculatorPointsService;
-import service.caclulator.CalculatorPointsTrackEventsImpl;
+import service.calculator.CalculatorPointsFieldEventsImpl;
+import service.calculator.CalculatorPointsService;
+import service.calculator.CalculatorPointsTrackEventsImpl;
 
 public enum DecathlonEvents {
     NAME(0),
