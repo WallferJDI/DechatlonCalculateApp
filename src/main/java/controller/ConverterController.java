@@ -17,12 +17,13 @@ public class ConverterController {
     private final GenerateXML generateXML;
     private final ReaderService readerService;
 
-    public ConverterController() {
-        rankService =  new RankService();
-        converterService = new ConverterService();
-        generateXML = new GenerateXML();
-        readerService = new ReaderService();
+    public ConverterController(ConverterService converterService, RankService rankService, GenerateXML generateXML, ReaderService readerService) {
+        this.converterService = converterService;
+        this.rankService = rankService;
+        this.generateXML = generateXML;
+        this.readerService = readerService;
     }
+
 
     public void convertCSVtoXML(String filePath){
         try {
